@@ -1,0 +1,11 @@
+{
+  "catalogVersion": 1,
+  "id": "org.pithyx.community",
+  "name": { "en": "Community", "de": "Community" },
+  "description": {
+    "en": "Apps from the community, reviewed by the Pithyx project before they are published.",
+    "de": "Apps aus der Community, vor der Veröffentlichung vom Pithyx-Projekt geprüft."
+  },
+  "homepage": "https://github.com/pithyx/apps-community",
+  "images": "ghcr.io/pithyx/community"
+}
