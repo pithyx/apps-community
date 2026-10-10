@@ -10,6 +10,5 @@ Part of Pithyx by Schecher1 (https://github.com/Schecher1).
 - `catalog-next`: written by CI after each merge, signed with the `next` key; boxes on the beta channel read it.
 - `catalog`: written by the `promote` workflow after the owner's approval, signed with the `catalog` key; boxes on the stable channel read it.
 - Images: `ghcr.io/pithyx/community/<id>/<service>:<version>`, linked only by digest.
-- `vendor/`: temporary copy of `@pithyx/cli` 1.0.0-rc.5, which the workflows install until it is on npm; it goes once the owner publishes that version.
 
 To submit an app, read [CONTRIBUTING.md](CONTRIBUTING.md). How a catalog works and what its CI does is explained in the [catalog template](https://github.com/pithyx/catalog-template); security reports go through [SECURITY.md](SECURITY.md).
