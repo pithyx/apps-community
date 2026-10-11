@@ -1,6 +1,8 @@
 # Pithyx community apps
 
-This repository is the **community app catalog of [Pithyx](https://github.com/pithyx)**: apps by developers outside the project, reviewed by the Pithyx project before they are published, in the Store's tab "Community". It is **off by default on a box**; an administrator turns it on in the Store's settings after a warning. Ids under `org.pithyx.*` are not allowed here.
+This repository is the **community app catalog of [Pithyx](https://github.com/pithyx)**: apps by developers outside the project, reviewed by the Pithyx project before they are published, in the Store's tab "Community". It is **enabled by default on a box**; an administrator can turn it off in the Store's settings. Ids under `org.pithyx.*` are not allowed here.
+
+Part of Pithyx by Schecher1 (https://github.com/Schecher1).
 
 ## Structure
 
